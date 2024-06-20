@@ -33,13 +33,8 @@ Expect frequent improvements.
 - [ ] Sharing
 - [ ] "Bots"
 
-## Deploy
 
-**Vercel**
 
-Host your own live version of Chatbot UI with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmckaywrigley%2Fchatbot-ui)
 
 **Docker**
 
@@ -114,8 +109,3 @@ If you do not provide an OpenAI API key with `OPENAI_API_KEY`, users will have t
 
 If you don't have an OpenAI API key, you can get one [here](https://platform.openai.com/account/api-keys).
 
-## Contact
-
-If you have any questions, feel free to reach out to Mckay on [Twitter](https://twitter.com/mckaywrigley).
-
-[GCSE]: https://developers.google.com/custom-search/v1/overview
